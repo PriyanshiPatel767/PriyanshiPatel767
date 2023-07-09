@@ -17,7 +17,7 @@
 <h3 >
 - I'm  currently pursuing Bachelor Of Engineering in the domain of Computer Programming.</h3>
 <h3>- 🔭 I’m currently working on Web Development </h3>
- <h3>- 💬 Ask me about C,C++,Java. </h3>
+ <h3>- 💬 Ask me about C,C++,Java,HTML,CSS. </h3>
 <h3>- 📫 How to reach me: patelpriyanshi8324@gmail.com
   </h3>
 <h3>- 😄 Pronouns: She/Her </h3>
